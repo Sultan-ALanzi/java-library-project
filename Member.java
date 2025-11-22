@@ -28,7 +28,7 @@ public class Member {
         this.borrowedCount = borrowedCount;
     }
 
-    // Check if the member can borrow a book
+ 
     private boolean canBorrow() {
         return borrowedCount < 5;
     }
@@ -103,6 +103,7 @@ public class Member {
         return name;
     }
 }
+
 
 
 
