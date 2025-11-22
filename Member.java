@@ -1,16 +1,15 @@
 package obj;
 
-// Member.java – CSC111 – Phase 2
-// Student: Faisal SW
-
+// سلطان دحام حمد العنزي 446102803
+// فيصل عبدالله ابراهيم السويد 446105494
 public class Member {
 
-    // Member information
+  
     private int id;
     private String name;
     private int borrowedCount;
 
-    // Session counters
+   
     private int numViewBorrowed;
     private int numBorrows;
     private int numReturns;
@@ -104,5 +103,6 @@ public class Member {
         return name;
     }
 }
+
 
 
