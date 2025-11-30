@@ -7,7 +7,8 @@ A robust console-based Java application designed to manage library members, borr
 ---
 
 ## 👥 Project Team
-**Computer Science Department**
+
+
 
 | Student Name | University ID |
 | :--- | :--- |
